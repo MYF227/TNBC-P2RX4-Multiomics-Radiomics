@@ -2,7 +2,7 @@
 
 This repository contains the complete R analysis code accompanying the manuscript:
 
-> **"Preliminary Integrative Analysis Reveals P2RX4-Driven Immune Remodeling and Peritumoral Phenotypes in TNBC"**  
+> **"Integrative Single-Cell and Multimodal Analysis of P2RX4 in Triple-Negative Breast Cancer"** > *(The complete manuscript is currently under peer review. The exact title and authors will be updated upon formal acceptance and publication"**  
 > *(Authors, Journal, Year — update before submission)*
 
 ---
